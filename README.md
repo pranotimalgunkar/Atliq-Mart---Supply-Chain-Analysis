@@ -26,4 +26,8 @@ Dataset Link : https://codebasics.io/challenges/codebasics-resume-project-challe
 Supply Chian Challenge By Codebasics OCT 2022
 
 Dashboard Link : https://github.com/pranotimalgunkar/Atliq-Mart---Supply-Chain-Analysis/blob/main/supply_chain_management.pbix
-Dashboard pdf Link : 
+Dashboard pdf Link :https://github.com/pranotimalgunkar/Atliq-Mart---Supply-Chain-Analysis/blob/main/supply_chain_Analysis.pdf
+
+Thank You !
+
+Let's connect... Linkdin : https://www.linkedin.com/in/pranoti-malgunkar/
