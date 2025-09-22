@@ -25,4 +25,5 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 Dataset Link : https://codebasics.io/challenges/codebasics-resume-project-challenge/5
 Supply Chian Challenge By Codebasics OCT 2022
 
-Dashboard Link : 
+Dashboard Link : https://github.com/pranotimalgunkar/Atliq-Mart---Supply-Chain-Analysis/blob/main/supply_chain_management.pbix
+Dashboard pdf Link : 
